@@ -1,4 +1,3 @@
-### Hi there 👋
+## Muukii
 
-![](https://github-readme-stats.muukii-app.vercel.app/api?username=muukii&show_icons=true&theme=radical&count_private=true&show_owner=true)  
-![](https://github-readme-stats.muukii-app.vercel.app/api/top-langs/?username=muukii&layout=compact&theme=radical&count_private=true&show_owner=true)
+[**📋 Resume**](https://www.notion.so/muukii/Resume-Hiroshi-Kimura-Muukii-19e4d463d396461db087f215a4d6c8ee)
