@@ -10,4 +10,4 @@
 
 ### What's working on mainly?
 
-https://github.com/VergeGroup/Verge
+https://vergegroup.org/
