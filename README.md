@@ -1,13 +1,13 @@
-## Muukii
+# Hello, I'm Muukii
 
-[**📋 Resume**](https://www.notion.so/muukii/Resume-Hiroshi-Kimura-Muukii-19e4d463d396461db087f215a4d6c8ee)
+[**📋 Details about me**](https://muukii.app)
 
-### How valuable is following me?
+## What makes me motivated
 
-- I mostly exploring the repogitories from my activity feed and trending every day.
-- And then I will star it if I get interested in there.
-- You can see these repogitories on your feed by following me.
+A technology that makes us more productivity and creativity in the product developoment.
 
-### What's working on mainly?
+## What I'm working on
 
-https://vergegroup.org/
+- [Verge](https://github.com/VergeGroup/Verge)
+- [Brightroom](https://github.com/muukii/Brightroom)
+- [TextureSwiftSupport](https://github.com/TextureCommunity/TextureSwiftSupport)
