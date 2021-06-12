@@ -8,7 +8,8 @@ A technology that makes us more productivity and creativity in the product devel
 
 ## What I'm working on
 
-- [Verge](https://github.com/VergeGroup/Verge)
-- [Brightroom](https://github.com/muukii/Brightroom)
+- [Verge](https://github.com/VergeGroup/Verge) - State management library for flux or MVVM.
+- [Brightroom](https://github.com/muukii/Brightroom) - Image processing and editor UI
 - [TextureSwiftSupport](https://github.com/TextureCommunity/TextureSwiftSupport)
-- [JAYSON](https://github.com/muukii/JAYSON)
+- [JAYSON](https://github.com/muukii/JAYSON) - Reading and manipulating JSON 
+- [Rideau](https://github.com/muukii/Rideau) - Non modal experience UI
