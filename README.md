@@ -1,6 +1,6 @@
 # Hello, I'm Muukii
 
-- [My activities gathered by Lapras](https://lapras.com/public/ISJQVLK)
+- [My activities gathered by Lapras](https://lapras.com/public/muukii)
 - [**📋 Details about me**](https://muukii.app)
 
 ## What makes me motivated
