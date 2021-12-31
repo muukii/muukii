@@ -11,7 +11,7 @@ A technology that makes us more productivity and creativity in the product devel
 
 https://github.com/muukii/Ne
 
-## My libraries map for use-cases
+## Libraries
 
 **Managing state of app for MVVM / flux**
 
