@@ -72,3 +72,7 @@ https://github.com/muukii/Ne
 **Making a running task from Rx based sequence**
 
 - https://github.com/muukii/RxFuture
+
+**Getting more flexible syntax with Result builders**
+
+- https://github.com/muukii/ResultBuilderKit
