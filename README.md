@@ -11,12 +11,36 @@ A technology that makes us more productivity and creativity in the product devel
 
 https://github.com/muukii/Ne
 
-## What I'm working on
+## My libraries map for use-cases
+
+**Managing state of app**
+
+- [Verge](https://github.com/VergeGroup/Verge) - State management library for flux or MVVM.
+
+**Creating layout with code**
 
 - [MondrianLayout](https://github.com/muukii/MondrianLayout) - A DSL for AutoLayout
-- [Verge](https://github.com/VergeGroup/Verge) - State management library for flux or MVVM.
-- [Brightroom](https://github.com/muukii/Brightroom) - Image processing and editor UI
+
+**Using Texture(AsyncDisplayKit) with easier**
+
 - [TextureSwiftSupport](https://github.com/TextureCommunity/TextureSwiftSupport)
-- [JAYSON](https://github.com/muukii/JAYSON) - Reading and manipulating JSON 
+
+**Sheet UI (a.k.a half-modal)**
+
 - [Rideau](https://github.com/muukii/Rideau) - Non modal experience UI
-- [Capturer](https://github.com/muukii/Capturer) - Capturer
+
+**Using camera**
+
+- [Capturer](https://github.com/muukii/Capturer) - Make it easier to use camera
+
+**Parsing JSON with handling error**
+
+- [JAYSON](https://github.com/muukii/JAYSON) - Reading and manipulating JSON 
+
+**Editing Image**
+
+- [Brightroom](https://github.com/muukii/Brightroom) - Image processing and editor UI
+
+**Text input field for chat UI**
+
+- [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)
