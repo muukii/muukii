@@ -13,38 +13,62 @@ https://github.com/muukii/Ne
 
 ## My libraries map for use-cases
 
-**Managing state of app**
+**Managing state of app for MVVM / flux**
 
-- [Verge](https://github.com/VergeGroup/Verge) - State management library for flux or MVVM.
+- https://github.com/VergeGroup/Verge
 
-**Creating layout with code**
+**Building AutoLayout with code**
 
-- [MondrianLayout](https://github.com/muukii/MondrianLayout) - A DSL for AutoLayout
+- https://github.com/muukii/MondrianLayout
 
 **Using Texture(AsyncDisplayKit) with easier**
 
-- [TextureSwiftSupport](https://github.com/TextureCommunity/TextureSwiftSupport)
+- https://github.com/TextureCommunity/TextureSwiftSupport
 
 **Sheet UI (a.k.a half-modal)**
 
-- [Rideau](https://github.com/muukii/Rideau) - Non modal experience UI
+- https://github.com/muukii/Rideau
 
 **Using camera**
 
-- [Capturer](https://github.com/muukii/Capturer) - Make it easier to use camera
+- https://github.com/muukii/Capturer
 
 **Parsing JSON with handling error**
 
-- [JAYSON](https://github.com/muukii/JAYSON) - Reading and manipulating JSON 
+- https://github.com/muukii/JAYSON
 
 **Editing Image**
 
-- [Brightroom](https://github.com/muukii/Brightroom) - Image processing and editor UI
+- https://github.com/muukii/Brightroom
 
 **Text input field for chat UI**
 
-- [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)
+- https://github.com/muukii/NextGrowingTextView
 
-**Needs to create refresh control with your own design**
+**Refresh control with your own design**
 
-https://github.com/eure/ScrollEdgeControl
+- https://github.com/eure/ScrollEdgeControl
+
+**Adding transition like magic move**
+
+- https://github.com/muukii/MatchedTransition
+
+**Building NSAttributedString easier**
+
+- https://github.com/muukii/TypedTextAttributes
+
+**Building form UI with completely scratched cells**
+
+- https://github.com/muukii/StackScrollView
+
+**Displaying custom UI in keyboard area**
+
+- https://github.com/muukii/Bureau
+
+**Calculating size of view with AutoLayout**
+
+- https://github.com/muukii/ViewSizeCalculator
+
+**Making a running task from Rx based sequence**
+
+- https://github.com/muukii/RxFuture
