@@ -44,3 +44,7 @@ https://github.com/muukii/Ne
 **Text input field for chat UI**
 
 - [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)
+
+**Needs to create refresh control with your own design**
+
+https://github.com/eure/ScrollEdgeControl
