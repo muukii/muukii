@@ -1,5 +1,7 @@
 # Hello, I'm Muukii
 
+[**Working for Eureka, Inc. 🇯🇵**](https://github.com/eure)
+
 - [My activities gathered by Lapras](https://lapras.com/public/muukii)
 - [**📋 Details about me**](https://muukii.app)
 
