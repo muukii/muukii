@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/hiroshi.kimura/Downloads/My Engineering Principles/**)",
+      "Read(//Users/hiroshi.kimura/Downloads/経歴書/**)",
+      "Bash(tree:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
