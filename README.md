@@ -1,5 +1,7 @@
 # Hello, I'm Muukii
 
+![](https://komarev.com/ghpvc/?username=muukii)
+
 https://muukii.github.io/muukii/
 
 [**Working for Eureka, Inc. 🇯🇵**](https://github.com/eure) as a Mobile Development Director.
